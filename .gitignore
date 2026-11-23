@@ -1,0 +1,22 @@
+# Unreal Engine generated folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+.vs/
+
+# IDE / OS
+*.sln
+*.suo
+*.VC.db
+*.opensdf
+*.sdf
+*.xcodeproj
+*.xcworkspace
+Thumbs.db
+Desktop.ini
+
+# Python caches
+__pycache__/
+*.pyc
